@@ -1,0 +1,1 @@
+This is the fluentd setup used to send logs from kops k8s cluster to elasticsearch stack.
